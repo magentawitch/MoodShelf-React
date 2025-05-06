@@ -1,0 +1,18 @@
+/* HEADER */
+
+.logoContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    font-family: "Saira Semi Condensed";
+    font-weight: 600;
+    font-size: 4.5rem;
+    padding: 2rem .5rem;
+}
+
+.accent {
+    text-decoration: underline;
+}
