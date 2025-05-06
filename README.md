@@ -13,7 +13,7 @@ No backend. No data tracking. Just your vibe and a good read.
 - 💡 API key is stored securely in your browser (`localStorage`)
 - 📱 Fully responsive — works on mobile and desktop
 - ✨ Clean and soft UI with a hint of personality
-  
+
 ---
 
 ## 🧠 Why it needs an API key
@@ -40,13 +40,13 @@ Your key is:
 
 ---
 
-## ✨ Credits
-
-Built with love using:
-
+### 🛠️ Tech Stack
 - React
+- Javascript
 - CSS Modules
+- Vite
 - Google Books API
+- Datamuse API
 
 ---
 
